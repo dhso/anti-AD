@@ -32646,3 +32646,8 @@
 @@||widget.weibo.com^
 @@||uland.taobao.com^
 @@||advertisement.taobao.com^
+@@||taobao.com^
+@@||alimama.com^
+@@||alimama.cn^
+@@||alicdn.com^
+@@||taobaocdn.com^
