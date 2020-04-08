@@ -92,7 +92,6 @@ return array(
     'i.niupic.com' => 0, //免费图床地址
     'api-game.meizu.com' => 0, //魅族商店更新游戏
     'image.uczzd.cn' => 0, //uc头条的图片 #67
-    'zconfig.alibabausercontent.com' => 0, //阿里云app登录失效 #69
     'dg.k.jd.com' => 0, //京东不能跳转app
     'orbit.jd.com' => 0, //京东不能跳转app
     'kepler.jd.com' => 0, //京东不能跳转app
@@ -107,6 +106,8 @@ return array(
     'zimuku.la' => 0, // #84
     'qihucdn.com' => 0, // #89
     'sqimg.qq.com' => 0, // #90
+    'haohuo.snssdk.com' => 0, // 抖音订单列表
+    'acs.m.taobao.com' => 0, // #92
 
 
 
