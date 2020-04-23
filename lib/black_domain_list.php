@@ -611,6 +611,36 @@ return array(
     'ebjvu.cn' => array(
       'ebjvu.cn',
     ),
+    'nvidia.com' => array(
+      'events.gfe.nvidia.com'
+    ),
+    'axbxgg.com' => array( // 恶意推广app下载
+      'axbxgg.com',
+      '2ydl.axbxgg.com',
+    ),
+    'rayjump.com' => array( // 广告域名 #98
+      'rayjump.com',
+      'adx-tk.rayjump.com',
+    ),
+    'windows.com' => array( // 广告域名 #102
+      'activity.windows.com',
+    ),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

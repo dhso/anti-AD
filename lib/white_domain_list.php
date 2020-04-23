@@ -108,7 +108,12 @@ return array(
     'sqimg.qq.com' => 0, // #90
     'haohuo.snssdk.com' => 0, // 抖音订单列表
     'acs.m.taobao.com' => 0, // #92
-
+    'perfops.net' => 0, // #96
+    'msg.video.qiyi.com' => 0, // #93
+    'img.zuoyebang.cc' => 0, // 作业帮拍照搜题
+    'data.video.iqiyi.com' => 0, // 爱奇艺电视投屏
+    'cp81.ott.cibntv.net' => 0, // CIBN云视听异常 #107
+    'sj.uukanshu.com' => 0, // 误杀 #110
 
 
     'herokuapp.com' => -1,
