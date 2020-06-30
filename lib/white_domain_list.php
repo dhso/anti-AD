@@ -143,8 +143,8 @@ return array(
     'dyn.ithome.com' => 0, // #157
     'sf6-ttcdn-tos.pstatp.com' => 0, // #159
     'api.tv.sohu.com' => 0, // 搜狐视频win app版不能使用
-
-    
+    'ip2location.com' => 0, // #163
+        
     
     
     
@@ -223,5 +223,6 @@ return array(
 
     'cpm.cm.kankan.com' => -1, //-1 失效本条规则，保持现状，即不加白本域名
     'deliver.ifeng.com' => -1, //保留的dead-hosts，为了缩减其子域名
+    'ad.xiaomi.com' => -1, //保留的dead-hosts，为了缩减其子域名
 
 );
